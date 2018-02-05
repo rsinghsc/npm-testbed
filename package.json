@@ -1,0 +1,11 @@
+{
+  "name": "npm-testbed",
+  "version": "1.0.0",
+  "description": "test scripts",
+  "main": "script.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "Rajib Singh",
+  "license": "ISC"
+}
